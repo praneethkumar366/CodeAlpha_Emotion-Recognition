@@ -27,6 +27,15 @@ This project addresses that modern problem by developing an intelligent system t
 - Joblib  
 
 ---
+### 📁 Dataset Download  
+The original dataset used to train this model can be downloaded from the link below:  
+📂 [Download Dataset (Google Drive)](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
+
+### 📥 Important!  
+#### 🔐 Extract ZIP Before Running  
+This repo includes a compressed `emotion_env.zip` file (containing trained models and required project files).  
+📦 **Please extract the `emotion_env.zip` first** before running the project or opening `gui.py`.  
+> 📁 After extracting, navigate into the folder to continue.
 
 ### 📁 Project Structure  
 Emotion-Recognition-From-Speech/
